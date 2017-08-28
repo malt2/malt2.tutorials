@@ -1,0 +1,6 @@
+# Install torch
+# chmod 755 mpitest.sh 
+# chmod 755 redirect.sh
+# Source Torch environment and Run mpitest.sh
+# facebook resnet training modified to run distributed over malt2.
+# LICENSE and PATENT on facebook's code as per the files in this dir.
