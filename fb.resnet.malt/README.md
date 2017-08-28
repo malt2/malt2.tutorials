@@ -1,7 +1,7 @@
 ResNet training in Torch w/MALT
 ===============================
 ## Quick start
-Install MALT-2 from the MALT [guide](http://138.15.166.21:4000/) and run: ./mpitest.sh
+Install MALT-2 from the MALT [guide](http://github.com/malt2/malt2) and run: ./mpitest.sh
 
 
 This implements training of residual networks from [Deep Residual Learning for Image Recognition](http://arxiv.org/abs/1512.03385) by Kaiming He, et. al.
